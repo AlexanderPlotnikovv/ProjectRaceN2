@@ -1,0 +1,20 @@
+# ninja log v5
+4	126	7082072072533219	build.ninja	b6b4127f53d1537f
+5	670	7082070397825377	CMakeFiles/ProjectLibrary.dir/AirTransport.cpp.obj	13d7f3a6e98c5b3e
+9	764	7082070398772851	CMakeFiles/ProjectLibrary.dir/Camel.cpp.obj	ed2dec269c4b51aa
+6	836	7082070399600633	CMakeFiles/ProjectLibrary.dir/ATVBoots.cpp.obj	3a881efefa954f6c
+11	945	7082070400448367	CMakeFiles/ProjectLibrary.dir/CarpetPlane.cpp.obj	ddf84ccc6683fe55
+12	1035	7082070401665114	CMakeFiles/ProjectLibrary.dir/Centaur.cpp.obj	959d72b2ae3979fd
+8	1145	7082070402782128	CMakeFiles/ProjectLibrary.dir/Broomstick.cpp.obj	7c47b97548cd2407
+10	442	7082072165945677	CMakeFiles/ProjectLibrary.dir/GroundTransport.cpp.obj	4806b4a29c5b4abb
+7	589	7082072167571331	CMakeFiles/ProjectLibrary.dir/FastmotionCamel.cpp.obj	9e3b9397bb04e10e
+5	608	7082072167760818	CMakeFiles/ProjectLibrary.dir/Eagle.cpp.obj	183cb3a60e290c1c
+12	625	7082072167940343	CMakeFiles/ProjectLibrary.dir/Transport.cpp.obj	474bc8f5a08fe76c
+2	755	7082072711876115	CMakeFiles/ProjectLibrary.dir/AirGroundRace.cpp.obj	116f2e03006919dc
+4	770	7082072712025714	CMakeFiles/ProjectLibrary.dir/AirRace.cpp.obj	6eb33a6d682225c2
+8	792	7082072712245129	CMakeFiles/ProjectLibrary.dir/Race.cpp.obj	59cd21835c545ab2
+6	796	7082072712295004	CMakeFiles/ProjectLibrary.dir/GroundRace.cpp.obj	c767ce29894af4f7
+4	417	7082072976834576	CMakeFiles/CMake_Project.dir/main.cpp.obj	aa6f7cb1a3ae8fae
+2	453	7082072977044022	ProjectLibrary.dll	66fa8f754b04f1d0
+2	453	7082072977044022	ProjectLibrary.lib	66fa8f754b04f1d0
+453	633	7082072978859168	CMake_Project.exe	c8bc1746741ca0e2

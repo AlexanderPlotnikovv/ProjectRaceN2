@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(ProjectRacing)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+add_library(ProjectLibrary SHARED AirGroundRace.cpp AirGroundRace.h AirRace.cpp AirRace.h AirTransport.cpp AirTransport.h ATVBoots.cpp ATVBoots.h Broomstick.cpp Broomstick.h Camel.cpp Camel.h CarpetPlane.cpp CarpetPlane.h Centaur.cpp Centaur.h Eagle.cpp Eagle.h FastmotionCamel.cpp FastmotionCamel.h GroundRace.cpp GroundRace.h GroundTransport.cpp GroundTransport.h Race.cpp Race.h Transport.cpp Transport.h)
+add_executable(CMake_Project main.cpp)
+target_link_libraries(CMake_Project ProjectLibrary)
