@@ -8,7 +8,7 @@ float GroundTransport::time()
 	RelaxAmount = 0;
 	Time = 0;
 		float a = 0;
-		while (a <= Distance-Speed*TimeBeforeRelax)
+		while (a < Distance-Speed*TimeBeforeRelax)
 		{
 			if (a > Distance)
 			{

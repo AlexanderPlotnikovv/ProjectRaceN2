@@ -115,6 +115,7 @@ EXPORTS
 	?_Orphan_all_locked_v3@_Container_base12@std@@AEAAXXZ
 	?_Orphan_all_unlocked_v3@_Container_base12@std@@AEAAXXZ
 	?_Release@_Basic_container_proxy_ptr12@std@@QEAAXXZ
+	?_Start_element_lifetimes@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CAXQEAD_K@Z
 	?_Throw_bad_array_new_length@std@@YAXXZ
 	?_Tidy_deallocate@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAXXZ
 	?_Tidy_init@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAXXZ

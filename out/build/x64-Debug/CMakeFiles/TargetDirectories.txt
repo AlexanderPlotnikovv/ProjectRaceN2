@@ -1,4 +1,4 @@
-C:/Users/User/OneDrive/Рабочий стол/ProjectN2Race/out/build/x64-Debug/CMakeFiles/ProjectLibrary.dir
-C:/Users/User/OneDrive/Рабочий стол/ProjectN2Race/out/build/x64-Debug/CMakeFiles/CMake_Project.dir
-C:/Users/User/OneDrive/Рабочий стол/ProjectN2Race/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/User/OneDrive/Рабочий стол/ProjectN2Race/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Apppl/source/repos/ProjectRaceN2/out/build/x64-Debug/CMakeFiles/ProjectLibrary.dir
+C:/Users/Apppl/source/repos/ProjectRaceN2/out/build/x64-Debug/CMakeFiles/CMake_Project.dir
+C:/Users/Apppl/source/repos/ProjectRaceN2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Apppl/source/repos/ProjectRaceN2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -10,6 +10,13 @@ void AirGroundRace::helperfoo(float a, int Log, int TransportNumber, int ka, int
 	std::cin >> Log;
 	if (Log == 2)
 	{
+		if (ka == 0 || ka == 1)
+		{
+			std::cout << "You didn't logged any transport or logged too few!" << std::endl;
+			helperfoo(a, Log, TransportNumber, ka, arrground, transports);
+		}
+		else
+		{
 			for (int i = 0; i < ka; i++)
 			{
 				for (int j = 0; j < ka - 1 - i; j++)
@@ -27,12 +34,21 @@ void AirGroundRace::helperfoo(float a, int Log, int TransportNumber, int ka, int
 			{
 				std::cout << i + 1 << ". " << transports[i]->name() << ". Time: " << transports[i]->time() << std::endl;
 			}
+		}
 	}
 	else if (Log == 1)
 	{
 		while (TransportNumber != 0)
 		{
 			std::cout << "What type of transport do you want to choose?" << std::endl;
+			std::cout << "1. Camel" << std::endl;
+			std::cout << "2. Fastmotion camel" << std::endl;
+			std::cout << "3. Centaur" << std::endl;
+			std::cout << "4. ATV boots" << std::endl;
+			std::cout << "5. Carpet plane" << std::endl;
+			std::cout << "6. Eagle" << std::endl;
+			std::cout << "7. Broomstick" << std::endl;
+			std::cout << "Enter 0 if you want to exit from choosing" << std::endl;
 			std::cin >> TransportNumber;
 			if (TransportNumber == 1)
 			{
@@ -132,6 +148,7 @@ void AirGroundRace::helperfoo(float a, int Log, int TransportNumber, int ka, int
 					arrground[TransportNumber - 1]++;
 				}
 			}
+			else if (TransportNumber == 0) {}
 			else
 			{
 				std::cout << "Incorrect type of transport" << std::endl;

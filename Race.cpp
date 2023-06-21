@@ -12,8 +12,8 @@ void Race::racehelper()
 	float a;
 	std::cout << "Welcome in racing simulator!" << std::endl;
 	std::cout << "1. Racing for ground transport" << std::endl;
-	std::cout << "1. Racing for air transport" << std::endl;
-	std::cout << "1. Racing for ground and air transport" << std::endl;
+	std::cout << "2. Racing for air transport" << std::endl;
+	std::cout << "3. Racing for ground and air transport" << std::endl;
 	std::cout << "Enter type of race: ";
 	std::cin >> RacingType;
 	std::cout << "Enter distance: ";
